@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="140"/>
 </div>
-<div id="badges" align="center" width="200">
-  <img src="https://img.shields.io/badge/Telegram-green?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge" width="140" />
-</div>
 <div id="view-counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Khausta&style=flat-square&color=green" width="140" alt=""/>
 </div>
