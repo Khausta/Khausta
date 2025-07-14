@@ -17,8 +17,8 @@
 ### :woman_technologist: About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 👩‍🎓 I'm learning React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/>;
-- 🌴 I like solving problems from LeetCode in my spare time
+- 👩‍🎓 I’m currently learning React <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="20" height="20"/>;
+- 🌴 I like do the yoga!
 - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/-LoraMoo-green?style=flat&logo=Telegram&logoColor=white)](https://t.me/LoraMoo)
 
 ---
